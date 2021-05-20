@@ -5,7 +5,7 @@ digit identification. Optimally we can achieve around 90% successful recognition
 
 # Running
 
-To run this, download and unzip the MNIST data set and put them in `./data/`, or manually edit thge MNIST paths in the Makefile. Then do `make run` 
+To run this, download and unzip the MNIST data set and put them in `./data/`, or manually edit the MNIST paths in the Makefile. Then do `make run` 
 
 Here is some example output 
 ```
